@@ -1,8 +1,9 @@
-Shifty's Hitbox Touched Event Replace
+[Shifty's Hitbox](https://www.roblox.com/library/14275532358/Shiftys-Hitbox) Touched Event Replace
+
 
 ## DESCRIPTION
 Shifty's Hitbox is a Hitbox Module that i create to replace Touched Event because it was affecting performance.
-This Module is free to use, no need to credit me but if u don't want ;)
+This Module is free to use, no need to credit me if u don't want ;)
 
 ## USAGES
 this Hitbox modules only has 3 Functions for now `new()`, `Connect()`, and `Stop()`
